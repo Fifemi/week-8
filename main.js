@@ -15,7 +15,7 @@ console.log(result);
 //No: 2- create a function that prints to the console n1 to n2, where n1 is the first input/parameter and n2 is the second input/parameter
 //create a function named printNumbers
 function printNumbers(n1, n2) {
-    //use for loop to iterate from n1 to n2
+    //use for loop to iterate from n1 to n25
     for (let i = n1; i <= n2; i++) {
         //log the output inside the loop to print each number
         console.log(i);
